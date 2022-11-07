@@ -6,8 +6,9 @@ public class NegativeNumberExceptionDemo {
 
     int firstNumber = 0;
     int secondNumber = 0;
+    Scanner sc = new Scanner(System.in);
     try {
-        Scanner sc = new Scanner(System.in);
+        
 
         System.out.print("\n\nEnter the first non-negative number : ");
         firstNumber = sc.nextInt();
