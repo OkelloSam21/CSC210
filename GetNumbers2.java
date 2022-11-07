@@ -8,7 +8,7 @@ public class GetNumbers2 {
 public static void main(String[] args) {
     
         Scanner stdin = new Scanner(System.in);
-        
+
         System.out.print("\n\nEnter the first non-negative number : ");
         int firstNumber = stdin.nextInt();
 
