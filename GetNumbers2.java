@@ -3,7 +3,6 @@
  */
 import java.util.*;
 
-
 public class GetNumbers2 {
 public static void main(String[] args) {
     try (Scanner stdin = new Scanner(System.in)) {
